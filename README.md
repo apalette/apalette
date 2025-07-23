@@ -1,11 +1,25 @@
 # Aurélie Palette
 
-**Développeuse Full-stack Sénior | Laravel**  
+**Développeuse Full Stack orientée Backend – PHP (Laravel, Symfony), Vue.js**  
 📍 Annecy, France   
-🌐 [linkedin.com/in/aureliepalette](https://www.linkedin.com/in/aureliepalette/?locale=en_US)  
+🌐 <a href="http://example.com/](https://www.linkedin.com/in/aureliepalette/" target="_blank">Profil Linkedin</a> - <a href="https://codeuz.com/portfolio" target="_blank">Portfolio</a> 
 
-Développeuse sénior experte en gestion de projet, avec une forte sensibilité à l’UX Design.   
-Spécialisée dans le développement d'applications métier sur mesure avec une approche TDD.
+🎯 Développeuse Backend Senior spécialisée dans le développement d’applications métiers sur mesure, avec Laravel (9 ans d’expérience) et Symfony (montée en compétences en cours)   
+Je maîtrise également le développement front-end, notamment avec Alpine.js, Vue.js, Tailwind CSS ou Bootstrap, ce qui me permet de concevoir des interfaces utilisateur modernes et réactives, en complément de mes compétences backend.   
+Je suis également à l’aise pour intervenir ponctuellement sur des CMS comme WordPress, WooCommerce ou Drupal.
+
+👩‍💻 Je peux contribuer à des projets existants en équipe ou prendre en charge entièrement un projet web :   
+- Analyse des besoins et rédaction du cahier des charges   
+- UX/UI design (maquettes fonctionnelles, prototypage)   
+- Rétroplanning et coordination   
+- Développement backend   
+- Intégration frontend   
+- Tests, CI/CDD
+- Environnement de développement
+- Déploiement, mise en production   
+- Administration système : domaines, serveurs, mails, certificats SSL   
+
+✅ J’adopte une approche clean code et test-driven development (TDD) pour garantir des bases solides, évolutives et maintenables.
 
 ---
 
@@ -14,14 +28,22 @@ Spécialisée dans le développement d'applications métier sur mesure avec une 
 ### Codeuz / Vocables, Genève (Suisse) — Depuis mars 2017
 _Activité indépendante_
 
-**COMPETENCES TECHNIQUES**  
-Développement full-stack (Laravel, Vue.js, TailwindCSS), gestion de projet technique, déploiement continu avec tests d’intégration, administration de serveurs et gestion de domaines, analyse métier et rédaction de cahiers des charges.
+**COMPETENCES CONSOLIDEES**  
+- Analyse des besoins et rédaction du cahier des charges   
+- UX/UI design (maquettes fonctionnelles, prototypage)   
+- Rétroplanning et coordination   
+- Développement backend (Laravel, Nova, WordPress)
+- Intégration frontend (Vue.js, Alpine.js, TailwindCSS, Bootstrap, jQuery)
+- Tests, CI/CDD
+- Environnement de développement : Sail, Laradock, DDEV, Git, GitHub, Bitbucket
+- Déploiement, mise en production   
+- Administration système : domaines, serveurs, mails, certificats SSL   
 
 **PROJETS CLES**
 
 #### MaisNet – Plateforme d’aide à la décision pour la culture du maïs
 *Agroscope (CH) – 2020 à 2025*  
-**Rôle :** Chef de projet technique / Développeur full-stack  
+**Rôle :** Développeur full-stack / chef de projet technique
 **Livrable :** Plateforme web sécurisée, multi-rôle et multilingue (4 langues)
 - Cadrage fonctionnel avec les chercheurs et rédaction du cahier des charges
 - Élaboration du rétro-planning, priorisation des fonctionnalités, mise en production itérative avec phases de tests planifiées
@@ -45,8 +67,10 @@ Développement full-stack (Laravel, Vue.js, TailwindCSS), gestion de projet tech
 ### Idéative, Genève (Suisse) — Janvier 2022 à Juin 2023
 _Poste à 60% en parallèle de mon activité indépendante_
 
-**COMPETENCES TECHNIQUES**  
-Développement full-stack (Laravel, Drupal, Bootstrap, jQuery), déploiement continu avec tests d’intégration.
+**COMPETENCES CONSOLIDEES**   
+- Développement backend (Laravel, Drupal)
+- Déploiement continu avec tests d’intégration.
+- Environnement de développement : DDEV, Git, Bitbucket
 
 **PROJET CLE**
 
@@ -60,13 +84,42 @@ Développement full-stack (Laravel, Drupal, Bootstrap, jQuery), déploiement con
 ---
 
 ### AV PROD Group, Lille (France) — Septembre 2015 à Mars 2017
-- Responsable du pôle web nouvellement créé au sein d’une agence de production audiovisuelle
-- Développement de portails vidéos sécurisés, sites événementiels éphémères et plateformes e-learning avec Laravel
-- Responsable Live Streaming : installation matérielle, configuration des flux et supervision en direct lors des événements
+
+**COMPETENCES CONSOLIDEES**   
+- Développement Full Stack (Laravel, WordPress, Bootstrap, jQuery)
+- Administration de serveurs et gestion des déploiements
+- Supervision technique des événements de live streaming (installation du matériel, encodage, diffusion, monitoring)
 - Encadrement des développeurs externes
+- Management du pôle web nouvellement créé
+
+**PROJETS CLES**
+- Conception et développement de portails vidéos sécurisés   
+- Mise en place de sites événementiels éphémères à fort trafic  
+- Développement et maintenance de plateformes e-learning personnalisées
 
 ---
 
 ### WW4, Lille (France) — Juillet 2009 à Septembre 2015
-- Développement Backend : applications Facebook en PHP natif et sites vitrines avec WordPress
-- Encadrement des développeurs front-end  
+
+**COMPETENCES CONSOLIDEES**   
+- Développement Backend (PHP, WordPress, Drupal)
+- Encadrement des développeurs Frontend (jQuery)
+
+**PROJETS CLES**
+- Développement d’applications Facebook (jeux concours)   
+- Intégration de systèmes de connexion via les réseaux sociaux (OAuth)
+- Création de sites vitrines sur WordPress et Drupal
+
+---
+
+## LANGUES
+- Français : langue maternelle
+- Anglais : intermédiaire
+- Allemand : basique
+  
+---
+
+## CENTRES D'INTERET
+- Bricolage, DIY
+- Randonnée
+- Science fiction (livres et séries TV)
